@@ -18,3 +18,9 @@
 // | `===` | `1` | `"1"` | `false` |
 // | `===` | `1` | `true` | `false` |
 
+//JavaScript Has both strict and Type-converting comparision:
+
+//Strict comparision (e.g., ===) checks for value equality without alowing coercion;
+//abstract comparision(e.g ==) checks for value equality with coercion allowed
+
+var a
