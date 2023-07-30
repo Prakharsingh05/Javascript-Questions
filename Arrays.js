@@ -24,3 +24,6 @@ myArray.pop();
 //Removes the number '4' at position 3 since
 
 console.log(myArray);
+
+//You can also get the length of an array using the `length` property. 
+console.log(myArray.length);
