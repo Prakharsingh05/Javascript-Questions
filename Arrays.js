@@ -27,3 +27,4 @@ console.log(myArray);
 
 //You can also get the length of an array using the `length` property. 
 console.log(myArray.length);
+
