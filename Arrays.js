@@ -15,3 +15,12 @@ console.log(myArray[0]);
 myArray.push(4);
 
 console.log(myArray);//[1,2,3,4]
+
+
+//You can also remove elements from an array using the `pop()` method. 
+//The `pop()` method removes the last element from the array.
+
+myArray.pop(); 
+//Removes the number '4' at position 3 since
+
+console.log(myArray);
