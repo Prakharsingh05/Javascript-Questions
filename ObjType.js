@@ -6,4 +6,4 @@ var obj={
     c:true
 };
 
-obj
+obj.a;  // 
