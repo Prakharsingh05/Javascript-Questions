@@ -13,3 +13,5 @@ console.log(myArray[0]);
 
 //You can also add elements to an array using the `push()` method. The `push()` method takes a single argument, which is the value to be added to the array. For example, the following code adds the number 4 to the `myArray` array:
 myArray.push(4);
+
+console.log(myArray);//[1,2,3,4]
