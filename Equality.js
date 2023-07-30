@@ -23,4 +23,9 @@
 //Strict comparision (e.g., ===) checks for value equality without alowing coercion;
 //abstract comparision(e.g ==) checks for value equality with coercion allowed
 
-var a
+var a ="42";
+var b = 42;
+
+a == b;// true
+a===b; //false , because type is different
+
