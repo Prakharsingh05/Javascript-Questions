@@ -28,4 +28,4 @@ var b = 42;
 
 a == b;// true
 a===b; //false , because type is different
-
+//
