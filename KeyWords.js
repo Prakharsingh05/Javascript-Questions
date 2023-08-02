@@ -22,3 +22,4 @@ Sure, here are some of the most common keywords in JavaScript and their uses:
 // * `for`: This keyword is used to create loops. Loops allow you to execute code multiple times.
 
 // * `while`: This keyword is also used to create loops, but it works differently than `for` loops. `while` loops continue to execute code as long as a condition is true.
+
