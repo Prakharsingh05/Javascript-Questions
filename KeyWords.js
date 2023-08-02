@@ -1,6 +1,6 @@
 //what are different keywords and thier uses define with example?
 
-Sure, here are some of the most common keywords in JavaScript and their uses:
+//Sure, here are some of the most common keywords in JavaScript and their uses:
 
 // * `var`: This keyword is used to declare variables.\
 
