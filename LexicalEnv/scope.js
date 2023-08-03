@@ -2,7 +2,7 @@
 
 // In JavaScript, the lexical environment is the set of variables, functions, and objects that are available to a piece of code during the execution of that code.
 
-// The lexical environment is created when the code is compiled and is tied to the function or block of code that contains the code. 
+// // The lexical environment is created when the code is compiled and is tied to the function or block of code that contains the code. 
 
 // The lexical environment is created when the code is executed, and it remains constant throughout the execution of the code.
 
