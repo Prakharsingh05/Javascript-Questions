@@ -29,4 +29,5 @@ parent.addEventListener("click", function(event) {
     console.log(text);
   }
 });
-​
+// ​
+// In this example, the event listener is added to the parent element with ID "parent". When a child element with tag name "LI" is clicked, the event listener checks the target of the event and gets the text content of the clicked list item. The text content is then logged to the console.
