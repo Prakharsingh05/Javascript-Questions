@@ -6,7 +6,7 @@
 
 // // The lexical environment is created when the code is executed, and it remains constant throughout the execution of the code.
 
-// The lexical environment is created by the scope chain, which is a list of objects that are searched for variables and functions when the code is executed. 
+// // The lexical environment is created by the scope chain, which is a list of objects that are searched for variables and functions when the code is executed. 
 
 // When a variable or function is referenced in the code, the JavaScript engine searches for it in the current lexical environment, 
 
