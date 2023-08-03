@@ -11,3 +11,22 @@
 
 //In order to use event delegation, the parent element should have a unique identifier, such as a class or ID attribute. 
 //The event listener should be added to the parent element, and it should use event bubbling to handle events on child elements.
+
+//Here is an example of event delegation in JavaScript:
+
+
+​
+// Get the parent element.
+var parent = document.getElementById("parent");
+​
+// Add a click event listener to the parent element.
+parent.addEventListener("click", function(event) {
+  // Check if the event was triggered on a child element.
+  if (event.target.nodeName === "LI") {
+    // Get the text of the clicked list item.
+    var text = event.target.textContent;
+    // Do something with the text.
+    console.log(text);
+  }
+});
+​
